@@ -1,3 +1,5 @@
+# https://leetcode.com/submissions/detail/263144222/
+
 class Solution:
     def dailyTemperatures(self, T: List[int]) -> List[int]:
         output = [0]*len(T)
@@ -8,4 +10,4 @@ class Solution:
                 output[stack[-1]] = (i+1)-stack[-1]
                 stack.pop()               
         return output
-                    
+
