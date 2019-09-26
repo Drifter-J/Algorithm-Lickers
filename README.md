@@ -2,6 +2,10 @@
 Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동안 진행합니다.
 매주 출제자는 2개의 Algorithm 문제를 LeetCode(https://leetcode.com/problemset/all/) 에서 출제합니다.  
 
+## 2019.10.02
+* [Clone Graph](https://leetcode.com/problems/clone-graph)
+* [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+
 ## 2019.09.25
 * [Target Sum](https://leetcode.com/problems/target-sum/)
 * [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
