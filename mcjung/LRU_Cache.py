@@ -1,6 +1,7 @@
 # solution Link: https://leetcode.com/submissions/detail/265776551/
 # this solution is too slow, may be O(n) of time complexity for put function in worst case
 # best solution is using orderd dict on std. lib of python
+# python std. lib implementation link: https://github.com/python/cpython/blob/874dae48fe9e7d66d19d942033563e42aadc8060/Lib/collections/__init__.py#L81
 
 import queue
 
