@@ -1,3 +1,5 @@
+# https://leetcode.com/submissions/detail/272506543/
+
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
         for i in range(len(nums)-1,-1,-1):
