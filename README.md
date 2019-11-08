@@ -2,6 +2,10 @@
 Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동안 진행합니다.
 매주 출제자는 2개의 Algorithm 문제를 LeetCode(https://leetcode.com/problemset/all/) 에서 출제합니다.  
 
+## 2019.11.13
+* [Maximal Square](https://leetcode.com/problems/maximal-square/)
+* [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+
 ## 2019.11.06
 * [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)
 * [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/)
