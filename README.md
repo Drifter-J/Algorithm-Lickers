@@ -1,7 +1,9 @@
 # Algorithm-Lickers
 Algorithm 스터디는 매주 수요일 오후 12시에서 1시까지 1시간동안 진행합니다.
 매주 출제자는 2개의 Algorithm 문제를 LeetCode(https://leetcode.com/problemset/all/) 에서 출제합니다.  
-
+## 2019.12.11
+* [Combination Sum](https://leetcode.com/problems/combination-sum/)
+* [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 ## 2019.12.04
 * [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 * [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
